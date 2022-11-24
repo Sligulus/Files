@@ -43,5 +43,6 @@
 0.0.0.0 www.dailycaller.com
 ||realclearpolitics.com^
 ||jimmydore.com^
+||justthenews.com^
 
 #
