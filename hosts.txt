@@ -44,4 +44,10 @@
 ||realclearpolitics.com^
 ||jimmydore.com^
 ||justthenews.com^
+||redstate.com^
+||babylonbee.com^
+||thefederalist.com^
+||americanwirenews.com^
+||timcast.com^
+||cnsnews.com^
 #
