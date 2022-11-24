@@ -47,6 +47,7 @@
 ||redstate.com^
 ||babylonbee.com^
 ||thefederalist.com^
+||https://thefederalist.com^
 ||americanwirenews.com^
 ||timcast.com^
 ||cnsnews.com^
