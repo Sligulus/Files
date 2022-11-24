@@ -41,6 +41,10 @@
 0.0.0.0 marklevinshow.com
 0.0.0.0 dailycaller.com
 0.0.0.0 www.dailycaller.com
+0.0.0.0 www.thefederalist.com
+0.0.0.0 www.federalist.com
+0.0.0.0 www.justthenews.com
+0.0.0.0 justthenews.com
 ||realclearpolitics.com^
 ||jimmydore.com^
 ||justthenews.com^
